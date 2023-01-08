@@ -16,6 +16,8 @@ export default function Home() {
       </Head>
       <div>
         <h3>Next Js</h3>
+        <h3>Next Js</h3>
+        <h3>Next Js</h3>
       </div>
     </>
   )
