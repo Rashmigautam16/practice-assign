@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
-        <h3>Next Js Work</h3>
+        <h3>Next Js</h3>
       </div>
     </>
   )
